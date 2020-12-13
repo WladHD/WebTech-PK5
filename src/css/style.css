@@ -51,6 +51,10 @@ aside {
     background-color: #e2e2e2;
 }
 
+aside h2 {
+    text-align: center;
+}
+
 nav a:hover {
     color: black;
 }
@@ -104,6 +108,11 @@ nav li {
     display: inline-block;
     width: 45%;
     vertical-align: top;
+}
+
+.info-view img {
+    width: 100%;
+    height: auto;
 }
 
 header p, header img {

@@ -21,15 +21,10 @@ main {
     flex: 0 0 65%;
 }
 
-.index-main .vertical-box div {
+.index-main .vertical-box div, .booking-main .vertical-box div {
     width: 90%;
 }
 
-.details-main figure img {
-    width: 100%;
-    height: auto;
-}
-
-.details-main .horizontal-box {
+.horizontal-box {
     align-items: flex-start;
 }
